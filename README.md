@@ -1,3 +1,1 @@
-# caltech-ee148-spring2020-hw03
-
-The link to the instructions is available on Piazza.
+This code builds a CNN from sratch to train a Convolutional neural network on classifying the digits 0 to 9.  
